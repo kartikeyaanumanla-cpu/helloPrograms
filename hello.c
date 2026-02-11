@@ -1,5 +1,5 @@
 #include<stdio.h>
-int amin()
+int main()
 {
 printf("Hello DevOps");
 }
